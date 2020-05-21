@@ -28,6 +28,7 @@ As an Microsoft 365 admin, the **Reports** dashboard shows you the activity over
   
 > [!NOTE]
 > You must be a global administrator, global reader or reports reader in Microsoft 365 or an Exchange, SharePoint, Teams Service, Teams Communications, or Skype for Business administrator to see reports. 
+> Microsoft 365 Reports in the admin center is not supported for GCC High and DoD tenants.
  
 ## How to get to the SharePoint site usage report
 
